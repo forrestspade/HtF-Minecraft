@@ -49,8 +49,6 @@ The Respawn script can be placed on Lava blocks to create traps.
 
 ## Links
 
-[https://www.minetest.net/](Minetest) - An open source MineCraft type project. There are lots of downloadable textures here.
-
-[https://docs.unity3d.com/Packages/com.unity.probuilder@4.2/manual/index.html](ProBuilder Manual)
-
-[https://docs.unity3d.com/Packages/com.unity.progrids@3.0/manual/index.html](ProGrids Manual)
+[Minetest](https://www.minetest.net/) - An open source MineCraft type project. There are lots of downloadable textures here.
+[ProBuilder Manual](https://docs.unity3d.com/Packages/com.unity.probuilder@4.2/manual/index.html) 
+[ProGrids Manual](https://docs.unity3d.com/Packages/com.unity.progrids@3.0/manual/index.html) 
