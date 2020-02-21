@@ -49,6 +49,14 @@ The Respawn script can be placed on Lava blocks to create traps.
 
 ## Links
 
+[Unity](https://unity3d.com/get-unity/download/archive) - Get 2018.4 here
+
+[Visual Studio Code](https://code.visualstudio.com/) Inside VSCode, install the "Unity Tools" extension
+
+[Krita](https://krita.org/en/download/krita-desktop/) A free Photoshop alternative
+
+[Blender](https://www.blender.org/download/) A free 3d modeling tool
+
 [Minetest](https://www.minetest.net/) - An open source MineCraft type project. There are lots of downloadable textures here.
 
 [ProBuilder Manual](https://docs.unity3d.com/Packages/com.unity.probuilder@4.2/manual/index.html) 
