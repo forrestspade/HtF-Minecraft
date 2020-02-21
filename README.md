@@ -46,10 +46,12 @@ Scene03, which includes an inventory scipt, allowing the placement of multiple t
 GameObjects can easily be skinned using ProBuilder.
 Levels can be created quickly using ProBuilder.
 The Respawn script can be placed on Lava blocks to create traps.
+Sound can be added to actions
+Textures can be animated
 
 ## Links
 
-[Unity](https://unity3d.com/get-unity/download/archive) - Get 2018.4 here
+[Unity](https://unity3d.com/get-unity/download/archive) Get 2018.4 here
 
 [Visual Studio Code](https://code.visualstudio.com/) Inside VSCode, install the "Unity Tools" extension
 
@@ -57,7 +59,9 @@ The Respawn script can be placed on Lava blocks to create traps.
 
 [Blender](https://www.blender.org/download/) A free 3d modeling tool
 
-[Minetest](https://www.minetest.net/) - An open source MineCraft type project. There are lots of downloadable textures here.
+[Bfxr](https://www.bfxr.net/) A simple sound effects generator
+
+[Minetest](https://www.minetest.net/) An open source MineCraft type project. There are lots of downloadable textures here.
 
 [ProBuilder Manual](https://docs.unity3d.com/Packages/com.unity.probuilder@4.2/manual/index.html) 
 
